@@ -1,0 +1,7 @@
+.terraform
+.env
+debug_dump
+terraform.tfstate
+terraform.tfstate.backup
+**/.aws-credentials
+terraform.tfvars
